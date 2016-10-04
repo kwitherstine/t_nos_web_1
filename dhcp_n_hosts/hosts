@@ -1,0 +1,14 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+# hosts file 
+
+172.16.30.21	spine01 spine01
+172.16.30.22	spine02	spine02
+
+172.16.30.11	leaf01	leaf01
+172.16.30.12	leaf02	leaf02
+172.16.30.13	leaf03	leaf03
+172.16.30.14	leaf04	leaf04
+172.16.30.15	leaf05	leaf05
+172.16.30.16	leaf06	leaf06
+
